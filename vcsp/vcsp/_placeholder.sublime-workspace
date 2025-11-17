@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"Rect\tpygame(Rect) "
+			],
+			[
+				"ty",
+				"type\tpygame(event) "
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"pygame",
+				"pad\tpygame(freetype) "
+			],
+			[
+				"collide",
+				"colliderect\tpygame(Rect) "
+			],
+			[
+				"player_",
+				"player_rect"
+			],
+			[
+				"move",
+				"move_ip\tpygame(Rect) "
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"fi",
+				"final"
+			],
+			[
+				"col",
+				"col_t"
+			],
+			[
+				"co",
+				"col_t"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"t",
+				"tkinter"
+			],
+			[
+				"p",
+				"picture\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/java_build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/java_build.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/java_build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"py",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Projects/test"
+	],
+	"file_history":
+	[
+		"/G/Projects/Exploits/hades.py",
+		"/G/Projects/Exploits/manual.md",
+		"/G/Projects/Exploits/notes.txt",
+		"/D/hacker/eternalblue_exploit.py",
+		"/C/Users/Admin/Desktop/Dodo/style.css",
+		"/C/Users/Admin/Desktop/Dodo/backend/__init__.py",
+		"/C/Users/Admin/Desktop/Dodo/index.html",
+		"/C/Users/Admin/Desktop/Dodo/script.js",
+		"/G/Program Files/python NSA exploit/exploit.py",
+		"/G/Program Files/Sublime Text 3/test.js",
+		"/C/Users/Admin/Desktop/next.js",
+		"/C/Users/Admin/Desktop/Python Projects/script.py",
+		"/C/Users/Admin/Desktop/java gamedev/Game.java",
+		"/C/Users/Admin/Desktop/test.bat",
+		"/H/VIDEO_TS/VIDEO_TS.BUP",
+		"/C/Users/Admin/Desktop/devs/Arthur/Enemy.py",
+		"/C/Users/Admin/Desktop/devs/Arthur/game.py",
+		"/C/Users/Admin/Desktop/devs/game.py",
+		"/C/Users/Admin/Desktop/devs/Arthur/test.txt",
+		"/C/Users/Admin/Desktop/devs/Arthur/README.md",
+		"/I/test/Pygame-master/Pygame-master/tetris.py",
+		"/C/Users/Admin/Desktop/devs/dev.cpp",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Batch.sublime-build",
+		"/I/test/Pygame-master/Pygame-master/Youtube/video_8.py",
+		"/I/test/Pygame-master/Pygame-master/Youtube/video_6.py",
+		"/I/test/Pygame-master/Pygame-master/Youtube/video_13.py",
+		"/I/Projects/Arthur/main.py",
+		"/I/Projects/Arthur/dist/main.py",
+		"/C/Users/Admin/Desktop/devs/Balls.py",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/pygui.sublime-build",
+		"/C/Users/Admin/Desktop/devs/HelloWorld.java",
+		"/C/Users/Admin/Desktop/devs/Hello.java",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/java_build.sublime-build",
+		"/G/My Devlog Game/tempCodeRunnerFile.py",
+		"/G/My Devlog Game/tempCodeRunnerFile.python",
+		"/I/test/Pygame-master/Pygame-master/TileGame/main.py",
+		"/G/Projects/tutorial/Game/main.py",
+		"/I/test/Pygame-master/Pygame-master/Chrome_Dinosaur_Game/DINO_GAME.ipynb",
+		"/I/test/Pygame-master/Pygame-master/Youtube/video_1.py",
+		"/G/Projects/tutorial/Game/style.css",
+		"/I/test/Pygame-master/Pygame-master/matrix.py",
+		"/G/Projects/tutorial/Game/index.html",
+		"/G/Projects/tutorial/Game/script.js",
+		"/I/PSP games iso/main.py",
+		"/I/PSP games iso/index.html",
+		"/I/PSP games iso/script.js",
+		"/I/PSP games iso/styles.css",
+		"/I/PSP games iso/slop.html",
+		"/I/code/main.py",
+		"/I/PSP games iso/go.py",
+		"/I/PSP games iso/config.py",
+		"/I/PSP games iso/untitled.py",
+		"/I/PSP games iso/job.py",
+		"/I/PSP games iso/test.py",
+		"/I/PSP games iso/index.py",
+		"/G/Projects/python files/main.py",
+		"/G/Program Files/Sublime Text 3/python3.sublime-build",
+		"/G/Chan_proj/chan2.html",
+		"/G/Projects/chan.html",
+		"/G/Projects/index.html",
+		"/G/CopperCube/Assets/dawn_image.jpg",
+		"/G/Projects/main.py",
+		"/G/Projects/style.css",
+		"/G/Projects/script.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 268.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "_placeholder.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
